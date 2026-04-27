@@ -12,8 +12,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // WiFi
-char ssid[] = "powboi";
-char pass[] = "p0wfu4lif3!";
+char ssid[] = "wifi_name";
+char pass[] = "wifi_password";
 
 // Stooq CSV API
 char serverAddress[] = "stooq.com";
