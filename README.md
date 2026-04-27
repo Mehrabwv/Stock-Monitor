@@ -22,3 +22,8 @@ Leg 2 => GND
 Setting wifi name: Change under 'char ssid'\
 Setting wifi password: Change under 'char pass'\
 Change stock: Change under 'Asset'
+
+# How to use:
+On startup, it will showcase the first stock (default is AAPL).\
+When button is pressed, it will showcase the next stock. Works for all subsequent stocks.\
+Every 5 minutes, the stock statistic will update.
