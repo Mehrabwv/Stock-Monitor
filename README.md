@@ -1,5 +1,5 @@
 # Stock-Monitor
-Uses SSTuino II (esp32), 0.96inch OLED display, and a button, to display stock information (Current price, day's high, day's low, change).
+Uses SSTuino II (esp32), 0.96inch OLED display, and a button, to display stock information (Current price, day's high, day's low, change). Uses data from stooq.com
 
 # Items needed:
 1) SSTuino II (esp32)
