@@ -19,6 +19,6 @@ Leg 1 => Pin 8
 Leg 2 => GND
 
 # Manual adjustments:
-Setting wifi name: Change under 'char ssid'
-Setting wifi password: Change under 'char pass'
+Setting wifi name: Change under 'char ssid'\
+Setting wifi password: Change under 'char pass'\
 Change stock: Change under 'Asset'
